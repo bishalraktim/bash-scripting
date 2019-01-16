@@ -1,0 +1,7 @@
+This is my testing!
+
+Let's break it down:
+
+Line 4 - run the command cp with the first command line argument as the source and the second command line argument as the destination.
+Line 8 - run the command echo to print a message.
+Line 9 - After the copy has completed, run the command ls for the destination just to verify it worked. We have included the options l to show us extra information and h to make the size human readable so we may verify it copied correctly.
